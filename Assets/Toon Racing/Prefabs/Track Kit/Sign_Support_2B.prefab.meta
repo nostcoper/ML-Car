@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5439074860feb46a1ba4f09c83b4d19e
+labels:
+- Advertising
+- Billboard
+- Circuit
+- Props
+- Track
+timeCreated: 1507559410
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Sign_Support_2B.prefab
+  uploadId: 442080

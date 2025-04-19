@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67b5856984b6549438fa9e66d98732c9
+labels:
+- Building
+- Tower
+timeCreated: 1507566619
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Buildings/Tower_1A.prefab
+  uploadId: 442080

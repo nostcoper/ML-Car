@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f2cf4b7688b62445a82ace7a920b0a7c
+labels:
+- Circuit
+- Props
+- Track
+timeCreated: 1508272853
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Fence_3C.prefab
+  uploadId: 442080

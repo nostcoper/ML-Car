@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 760140b694ca44152905c47ebcc2bbdb
+timeCreated: 1507057449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Terrain/New Terrain.asset
+  uploadId: 442080

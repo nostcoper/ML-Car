@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 993cb33e835014191b06a905f8636895
+labels:
+- Advertising
+- Billboard
+- Logo
+timeCreated: 1507759389
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Logo_3A.prefab
+  uploadId: 442080

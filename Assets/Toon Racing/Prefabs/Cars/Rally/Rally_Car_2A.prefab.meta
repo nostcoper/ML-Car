@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6297f5873427b4a6186eeed06fb4ec91
+labels:
+- Circuit
+- Compact
+- HotHatch
+- Racer
+- Rally
+- Track
+- Tuning
+timeCreated: 1507569280
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Cars/Rally/Rally_Car_2A.prefab
+  uploadId: 442080

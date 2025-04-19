@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d0ac379a26f64f9cbb8994b6bc066b2
+timeCreated: 1501532411
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Race_Car_5A_D.mat
+  uploadId: 442080

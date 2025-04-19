@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0ca801adb57714860a8d80e0b8333b8c
+labels:
+- Circuit
+- Dynamic
+- Props
+- Track
+timeCreated: 1507567462
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Extinguisher_1A.prefab
+  uploadId: 442080

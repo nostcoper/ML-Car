@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e255a1f0fca71438ba0f7340488d801b
+timeCreated: 1507558605
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Scenes/Demo_Scene_1.unity
+  uploadId: 442080

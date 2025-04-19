@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 130f09ea53c8044adbb9ac1c3a8c896d
+labels:
+- Circuit
+- Dynamic
+- Props
+- Track
+timeCreated: 1508077775
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Impact_Tires_2B.prefab
+  uploadId: 442080

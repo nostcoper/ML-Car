@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9505771bddde44295b0c6465a253ce93
+labels:
+- Circuit
+- Dynamic
+- Props
+- Track
+timeCreated: 1508109582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Impact_Barrels_1B.prefab
+  uploadId: 442080

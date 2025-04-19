@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 40b57b19fe54948058432fc1a814eddb
+labels:
+- Asphalt
+- Circuit
+- Track
+timeCreated: 1507560649
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Straight_1B.prefab
+  uploadId: 442080

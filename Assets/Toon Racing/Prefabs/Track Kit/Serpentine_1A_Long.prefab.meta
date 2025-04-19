@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7be7f785b99a4496ab95f3fb1c26d655
+labels:
+- Asphalt
+- Circuit
+- Track
+timeCreated: 1507560387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Serpentine_1A_Long.prefab
+  uploadId: 442080

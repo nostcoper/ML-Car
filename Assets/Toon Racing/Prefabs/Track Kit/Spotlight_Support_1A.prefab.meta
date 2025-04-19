@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4e8f7d66d2c1b4a8ca93ac17b40523de
+labels:
+- Circuit
+- Props
+- Track
+timeCreated: 1507672349
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Spotlight_Support_1A.prefab
+  uploadId: 442080

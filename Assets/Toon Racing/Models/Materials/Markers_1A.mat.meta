@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cbea8f3b7dd1f0449920e4667c3a1c7
+timeCreated: 1506519177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Markers_1A.mat
+  uploadId: 442080

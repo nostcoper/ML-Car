@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 48ad899f2b1fe4f7184b00c6c5ad8528
+labels:
+- Advertising
+- Billboard
+- Circuit
+- Props
+- Track
+timeCreated: 1507559662
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Fence_1C.prefab
+  uploadId: 442080

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2157063da9398e242b639ad16ede6337
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Dirt_Ramps_1A_D.mat
+  uploadId: 442080

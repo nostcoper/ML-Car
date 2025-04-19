@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3aaf9d9467ee342bfb15380464a9a12c
+labels:
+- F1
+- Formula
+- IndyCar
+- RaceCar
+- Racer
+timeCreated: 1507586425
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Cars/Racing/Race_Car_5B.prefab
+  uploadId: 442080

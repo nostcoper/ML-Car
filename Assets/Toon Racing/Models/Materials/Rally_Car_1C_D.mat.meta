@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6960921ac66a818488d79ec1a74290f9
+timeCreated: 1500931970
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Rally_Car_1C_D.mat
+  uploadId: 442080

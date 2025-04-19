@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b72e4d87a641a4535a5cee9a0887c5ed
+labels:
+- Asphalt
+- Circuit
+- Track
+timeCreated: 1507559901
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Curve_1C.prefab
+  uploadId: 442080

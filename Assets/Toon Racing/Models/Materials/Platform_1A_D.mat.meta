@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97a0a2499a51344469de74055a71c5dd
+timeCreated: 1506519177
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Platform_1A_D.mat
+  uploadId: 442080

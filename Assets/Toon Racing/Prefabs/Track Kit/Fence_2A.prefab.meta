@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 002041dbea6e64beab2bf8fb311e9dab
+labels:
+- Circuit
+- Props
+- Track
+timeCreated: 1507752087
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Fence_2A.prefab
+  uploadId: 442080

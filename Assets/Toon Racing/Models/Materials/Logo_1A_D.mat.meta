@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32072de3272974bc4b704e7e639e6301
+timeCreated: 1507057156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Logo_1A_D.mat
+  uploadId: 442080

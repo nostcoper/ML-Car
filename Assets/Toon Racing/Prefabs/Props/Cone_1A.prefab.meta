@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 458bd2f414ab848558b115e5871114cb
+labels:
+- Circuit
+- Dynamic
+- Props
+- Track
+timeCreated: 1507567467
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Cone_1A.prefab
+  uploadId: 442080

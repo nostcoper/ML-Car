@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d754de119c5e24e62bdcabc667771dff
+labels:
+- Building
+- Circuit
+- Track
+timeCreated: 1507759334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Canopy_1E.prefab
+  uploadId: 442080

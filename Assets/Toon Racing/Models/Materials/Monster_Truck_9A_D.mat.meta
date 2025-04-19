@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c5f60a59a90e4f5c99b8bd72ccb0203
+timeCreated: 1503444348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Monster_Truck_9A_D.mat
+  uploadId: 442080

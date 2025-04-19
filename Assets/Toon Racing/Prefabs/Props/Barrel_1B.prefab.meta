@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 53b6511ad8d374481849662ff28bcc3a
+labels:
+- Circuit
+- Dynamic
+- Props
+- Track
+timeCreated: 1507567475
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Barrel_1B.prefab
+  uploadId: 442080

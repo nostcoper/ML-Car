@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7f82c742c3e99496da80c9f537671ed1
+labels:
+- Building
+- Circuit
+- Track
+timeCreated: 1507559739
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Stand_1B.prefab
+  uploadId: 442080

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75f4febaf735e464a80a49eb2f438ba2
+timeCreated: 1501532411
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Race_Car_7B_D.mat
+  uploadId: 442080

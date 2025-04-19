@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c66fc37758a0fc34a8a4b7daf3338202
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Terrain/Layers/Layer_Stripes_1A.terrainlayer
+  uploadId: 442080

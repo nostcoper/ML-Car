@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6b8f72b5de42417dbb1b3fdbc38235e
+timeCreated: 1507057877
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Animations/Billboard_2F.controller
+  uploadId: 442080

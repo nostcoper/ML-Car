@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6e2c588ad1362d40b255e76c4e069b5
+timeCreated: 1501532411
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Rally_Car_4C_D.mat
+  uploadId: 442080

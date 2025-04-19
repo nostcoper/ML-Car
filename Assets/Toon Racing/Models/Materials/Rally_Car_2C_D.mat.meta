@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb4c693f7cd212448a14f9d634af7542
+timeCreated: 1501096417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Rally_Car_2C_D.mat
+  uploadId: 442080

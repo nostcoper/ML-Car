@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f5354c7600aac43e2bc62a9ccdcbe40d
+labels:
+- Asphalt
+- Circuit
+- Track
+timeCreated: 1507560663
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Straight_1D_Long.prefab
+  uploadId: 442080

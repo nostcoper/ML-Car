@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8142ed8d7b2e54189a266a75c3b8688d
+timeCreated: 1503444348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Monster_Truck_10A_D.mat
+  uploadId: 442080

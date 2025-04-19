@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 448baf8f73d00084a8a297fbaed28fc7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Animations/Main Camera.controller
+  uploadId: 442080

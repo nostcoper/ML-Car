@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3342d6af59054f3c8fdb307b3a08a50
+timeCreated: 1501175442
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Rally_Car_3A_D.mat
+  uploadId: 442080

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21e4bd16ffd07405188c2bd54d31013e
+timeCreated: 1503444348
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Models/Materials/Plane.mat
+  uploadId: 442080

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0831cdba81b55485489920cd230adadb
+labels:
+- PineTree
+- Tree
+- Vegetation
+timeCreated: 1507672688
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Props/Pine_Tree_2B.prefab
+  uploadId: 442080

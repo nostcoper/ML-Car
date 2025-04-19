@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c403f667eb4f4d558689196a3e0e2cb
+labels:
+- Asphalt
+- Circuit
+- Track
+timeCreated: 1507560472
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102727
+  packageName: Toon Racing
+  packageVersion: 1.4.0
+  assetPath: Assets/Toon Racing/Prefabs/Track Kit/Special_1C.prefab
+  uploadId: 442080
